@@ -1,7 +1,11 @@
 Flask
-flask_cors
+equest
+jsonify
+render_template
+send_from_directory
 gunicorn
 Jinja2
 Werkzeug
 itsdangerous
 click
+CORS
